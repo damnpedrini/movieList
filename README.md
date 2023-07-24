@@ -21,6 +21,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-This app was created as a learning project using SwiftUI. Special thanks to Washington Pedrini for the inspiration and guidance during the development process.
+This app was created as a learning project using SwiftUI. 
 
 Powered by Washington Pedrini
